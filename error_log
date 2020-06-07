@@ -1,0 +1,68 @@
+[24-Feb-2018 21:17:07 Etc/GMT] PHP Parse error:  syntax error, unexpected '?' in /home/masryooj/public_html/layout/application/language/arabic/site_lang.php on line 165
+[24-Feb-2018 21:17:38 Etc/GMT] PHP Parse error:  syntax error, unexpected '?' in /home/masryooj/public_html/layout/application/language/arabic/site_lang.php on line 165
+[24-Feb-2018 23:00:07 Etc/GMT] PHP Parse error:  syntax error, unexpected 'لا' (T_STRING) in /home/masryooj/public_html/layout/application/language/arabic/site_lang.php on line 167
+[28-Feb-2018 22:20:53 Etc/GMT] PHP Fatal error:  Cannot redeclare class Cms in /home/masryooj/public_html/layout/application/views/admin/cms/contact/edit_item_view.php on line 946
+[28-Feb-2018 22:44:17 Etc/GMT] PHP Parse error:  syntax error, unexpected 'substr' (T_STRING), expecting ',' or ';' in /home/masryooj/public_html/layout/application/views/home/header_view.php on line 142
+[28-Feb-2018 22:44:35 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home/masryooj/public_html/layout/application/views/home/header_view.php on line 142
+[28-Feb-2018 22:49:06 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/masryooj/public_html/layout/application/views/home/header_view.php on line 141
+[28-Feb-2018 23:04:10 Etc/GMT] PHP Fatal error:  Call to undefined function CURDATE() in /home/masryooj/public_html/layout/application/models/admin/Cms_model.php on line 15
+[01-Mar-2018 23:00:22 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/masryooj/public_html/layout/application/views/home/projects_view.php on line 67
+[01-Mar-2018 23:00:40 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/masryooj/public_html/layout/application/views/home/projects_view.php on line 67
+[01-Mar-2018 23:01:01 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/masryooj/public_html/layout/application/views/home/projects_view.php on line 67
+[01-Mar-2018 23:01:06 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/masryooj/public_html/layout/application/views/home/projects_view.php on line 67
+[12-Mar-2018 03:03:33 Etc/GMT] PHP Parse error:  syntax error, unexpected 'recruitment' (T_STRING) in /home/masryooj/public_html/application/controllers/Home.php on line 151
+[12-Mar-2018 03:03:36 Etc/GMT] PHP Parse error:  syntax error, unexpected 'recruitment' (T_STRING) in /home/masryooj/public_html/application/controllers/Home.php on line 151
+[12-Mar-2018 03:26:28 Etc/GMT] PHP Fatal error:  Call to a member function view() on a non-object in /home/masryooj/public_html/application/controllers/Home.php on line 234
+[12-Mar-2018 06:11:19 Etc/GMT] PHP Fatal error:  Call to a member function last_query() on a non-object in /home/masryooj/public_html/application/libraries/MainClass.php on line 29
+[04-Apr-2018 18:09:33 Etc/GMT] PHP Fatal error:  Cannot redeclare Login_model::chackSession() in /home/masryooj/public_html/application/models/Login_model.php on line 61
+[04-Apr-2018 18:10:07 Etc/GMT] PHP Fatal error:  Cannot redeclare Login_model::chackSession() in /home/masryooj/public_html/application/models/Login_model.php on line 61
+[04-Apr-2018 18:11:51 Etc/GMT] PHP Fatal error:  Cannot redeclare Login_model::chackSession() in /home/masryooj/public_html/application/models/Login_model.php on line 61
+[04-Apr-2018 18:12:03 Etc/GMT] PHP Fatal error:  Cannot redeclare Login_model::chackSession() in /home/masryooj/public_html/application/models/Login_model.php on line 61
+[04-Apr-2018 18:14:58 Etc/GMT] PHP Parse error:  syntax error, unexpected ']' in /home/masryooj/public_html/application/models/Login_model.php on line 66
+[04-Apr-2018 18:15:33 Etc/GMT] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/masryooj/public_html/application/models/Login_model.php on line 61
+[04-Apr-2018 18:16:05 Etc/GMT] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/masryooj/public_html/application/models/Login_model.php on line 61
+[04-Apr-2018 18:19:11 Etc/GMT] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/masryooj/public_html/application/models/Login_model.php on line 61
+[04-Apr-2018 18:19:20 Etc/GMT] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/masryooj/public_html/application/models/Login_model.php on line 61
+[04-Apr-2018 18:19:54 Etc/GMT] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/masryooj/public_html/application/models/Login_model.php on line 61
+[04-Apr-2018 18:20:03 Etc/GMT] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/masryooj/public_html/application/models/Login_model.php on line 61
+[04-Apr-2018 18:20:05 Etc/GMT] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/masryooj/public_html/application/models/Login_model.php on line 61
+[15-May-2018 18:46:28 Etc/GMT] PHP Parse error:  syntax error, unexpected '');' (T_CONSTANT_ENCAPSED_STRING) in /home/masryooj/public_html/application/controllers/Home.php on line 566
+[15-May-2018 18:46:32 Etc/GMT] PHP Parse error:  syntax error, unexpected '');' (T_CONSTANT_ENCAPSED_STRING) in /home/masryooj/public_html/application/controllers/Home.php on line 566
+[15-May-2018 18:46:35 Etc/GMT] PHP Parse error:  syntax error, unexpected '');' (T_CONSTANT_ENCAPSED_STRING) in /home/masryooj/public_html/application/controllers/Home.php on line 566
+[15-May-2018 19:05:39 Etc/GMT] PHP Parse error:  syntax error, unexpected '');' (T_CONSTANT_ENCAPSED_STRING) in /home/masryooj/public_html/application/controllers/Home.php on line 566
+[15-May-2018 20:01:04 Etc/GMT] PHP Parse error:  syntax error, unexpected '');' (T_CONSTANT_ENCAPSED_STRING) in /home/masryooj/public_html/application/controllers/Home.php on line 566
+[15-May-2018 20:01:10 Etc/GMT] PHP Parse error:  syntax error, unexpected '');' (T_CONSTANT_ENCAPSED_STRING) in /home/masryooj/public_html/application/controllers/Home.php on line 566
+[15-May-2018 20:01:12 Etc/GMT] PHP Parse error:  syntax error, unexpected '');' (T_CONSTANT_ENCAPSED_STRING) in /home/masryooj/public_html/application/controllers/Home.php on line 566
+[15-May-2018 20:01:14 Etc/GMT] PHP Parse error:  syntax error, unexpected '');' (T_CONSTANT_ENCAPSED_STRING) in /home/masryooj/public_html/application/controllers/Home.php on line 566
+[15-May-2018 20:01:28 Etc/GMT] PHP Parse error:  syntax error, unexpected '');' (T_CONSTANT_ENCAPSED_STRING) in /home/masryooj/public_html/application/controllers/Home.php on line 566
+[15-May-2018 20:55:46 Etc/GMT] PHP Parse error:  syntax error, unexpected '');' (T_CONSTANT_ENCAPSED_STRING) in /home/masryooj/public_html/application/controllers/Home.php on line 566
+[15-May-2018 21:04:14 Etc/GMT] PHP Parse error:  syntax error, unexpected '');' (T_CONSTANT_ENCAPSED_STRING) in /home/masryooj/public_html/application/controllers/Home.php on line 566
+[15-May-2018 21:16:25 Etc/GMT] PHP Parse error:  syntax error, unexpected '');' (T_CONSTANT_ENCAPSED_STRING) in /home/masryooj/public_html/application/controllers/Home.php on line 566
+[15-May-2018 21:17:27 Etc/GMT] PHP Parse error:  syntax error, unexpected '');' (T_CONSTANT_ENCAPSED_STRING) in /home/masryooj/public_html/application/controllers/Home.php on line 566
+[15-May-2018 21:17:29 Etc/GMT] PHP Parse error:  syntax error, unexpected '');' (T_CONSTANT_ENCAPSED_STRING) in /home/masryooj/public_html/application/controllers/Home.php on line 566
+[31-Mar-2019 22:18:17 Etc/GMT] PHP Fatal error:  Call to a member function result() on boolean in /home/masryooj/public_html/application/models/Support_model.php on line 27
+[31-Mar-2019 22:18:25 Etc/GMT] PHP Fatal error:  Call to a member function result() on boolean in /home/masryooj/public_html/application/models/Support_model.php on line 27
+[31-Mar-2019 22:18:57 Etc/GMT] PHP Fatal error:  Call to a member function result() on boolean in /home/masryooj/public_html/application/models/Support_model.php on line 27
+[31-Mar-2019 22:27:04 Etc/GMT] PHP Fatal error:  Call to a member function result() on boolean in /home/masryooj/public_html/application/models/Support_model.php on line 27
+[31-Mar-2019 22:27:55 Etc/GMT] PHP Fatal error:  Call to a member function result() on boolean in /home/masryooj/public_html/application/models/Support_model.php on line 27
+[31-Mar-2019 22:28:11 Etc/GMT] PHP Fatal error:  Call to a member function result() on boolean in /home/masryooj/public_html/application/models/Support_model.php on line 27
+[31-Mar-2019 22:28:25 Etc/GMT] PHP Fatal error:  Call to a member function result() on boolean in /home/masryooj/public_html/application/models/Support_model.php on line 27
+[31-Mar-2019 22:28:35 Etc/GMT] PHP Fatal error:  Call to a member function result() on boolean in /home/masryooj/public_html/application/models/Support_model.php on line 27
+[31-Mar-2019 22:29:19 Etc/GMT] PHP Fatal error:  Call to a member function result() on boolean in /home/masryooj/public_html/application/models/Support_model.php on line 27
+[31-Mar-2019 22:29:22 Etc/GMT] PHP Fatal error:  Call to a member function result() on boolean in /home/masryooj/public_html/application/models/Support_model.php on line 27
+[31-Mar-2019 22:29:38 Etc/GMT] PHP Fatal error:  Call to a member function result() on boolean in /home/masryooj/public_html/application/models/Support_model.php on line 27
+[31-Mar-2019 22:57:38 Etc/GMT] PHP Fatal error:  Call to a member function result() on boolean in /home/masryooj/public_html/application/models/Support_model.php on line 27
+[31-Mar-2019 22:58:24 Etc/GMT] PHP Fatal error:  Call to a member function result() on boolean in /home/masryooj/public_html/application/models/Support_model.php on line 27
+[31-Mar-2019 22:59:07 Etc/GMT] PHP Fatal error:  Call to a member function result() on boolean in /home/masryooj/public_html/application/models/Support_model.php on line 27
+[31-Mar-2019 23:00:51 Etc/GMT] PHP Fatal error:  Call to a member function result() on boolean in /home/masryooj/public_html/application/models/Support_model.php on line 27
+[31-Mar-2019 23:01:25 Etc/GMT] PHP Fatal error:  Call to a member function result() on boolean in /home/masryooj/public_html/application/models/Support_model.php on line 27
+[31-Mar-2019 23:59:18 Etc/GMT] PHP Parse error:  syntax error, unexpected '/' in /home/masryooj/public_html/application/controllers/admin/Users.php on line 200
+[31-Mar-2019 23:59:24 Etc/GMT] PHP Parse error:  syntax error, unexpected '/' in /home/masryooj/public_html/application/controllers/admin/Users.php on line 200
+[01-Apr-2019 00:11:03 Etc/GMT] PHP Fatal error:  Call to undefined function pint_r() in /home/masryooj/public_html/application/models/Login_model.php on line 9
+[01-Apr-2019 00:11:29 Etc/GMT] PHP Fatal error:  Call to undefined function pint_r() in /home/masryooj/public_html/application/models/Login_model.php on line 9
+[01-Apr-2019 00:30:43 Etc/GMT] PHP Fatal error:  Call to a member function getToken() on null in /home/masryooj/public_html/application/views/admin/header_view.php on line 133
+[01-Apr-2019 00:31:10 Etc/GMT] PHP Fatal error:  Call to a member function getToken() on null in /home/masryooj/public_html/application/views/admin/header_view.php on line 133
+[08-Jun-2019 19:03:04 Etc/GMT] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/masryooj/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[11-Aug-2019 12:27:53 Etc/GMT] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/masryooj/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[18-Sep-2019 20:27:11 Etc/GMT] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/masryooj/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[18-Sep-2019 20:27:18 Etc/GMT] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/masryooj/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391

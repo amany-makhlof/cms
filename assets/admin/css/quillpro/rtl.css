@@ -1,0 +1,138 @@
+@font-face {
+    font-family: "JF Flat Regular";
+    src: url('../font/JF-Flat-regular.eot');
+    src: url('../font/JF-Flat-regular.eot?#iefix') format('embedded-opentype'),
+    url('../font/JF-Flat-regular.svg#JF Flat') format('svg'),
+    url('../font/JF-Flat-regular.woff') format('woff'),
+    url('../font/JF-Flat-regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+body {
+	direction:rtl;
+    font-family: "JF Flat Regular" !important;
+}
+button, input, optgroup, select, textarea {
+	font-family: "JF Flat Regular" !important;	
+}
+.sidebar.bg-dark,
+.sidebar {
+  left: auto;
+  right: -240px;
+}
+.nav {
+	padding-right:0;
+}
+.mCS-dir-rtl>.mCSB_inside>.mCSB_container {
+	margin-left:0;
+	margin-right:0;
+}
+.mCS-dir-rtl>.mCSB_inside>.mCSB_scrollTools, .mCS-dir-rtl>.mCSB_outside+.mCSB_scrollTools {
+    right: auto;
+    left: 10px;
+}
+.sidebar.bg-dark .nav .nav-item .nav-link.nav-parent::after, .sidebar .nav .nav-item .nav-link.nav-parent::after {
+	float:left
+}
+.sidebar.bg-dark .nav .nav-item .nav-link.nav-parent::after, .sidebar .nav .nav-item .nav-link.nav-parent::after {
+    content: "\F14B";
+}
+.sidebar.bg-dark .nav .nav-item .nav-link.nav-parent + ul.nav .nav-link, .sidebar .nav .nav-item .nav-link.nav-parent + ul.nav .nav-link {
+    padding-right: 3.8rem;
+    padding-left: 0;
+}
+.sidebar.bg-dark .nav .nav-item .nav-link.nav-parent + ul.nav, .sidebar .nav .nav-item .nav-link.nav-parent + ul.nav {
+    border-right: 5px solid #07a7e3;
+	border-left: 0 solid #07a7e3;
+}
+.sidebar.bg-dark .nav .nav-item .nav-link i.batch-icon, .sidebar .nav .nav-item .nav-link i.batch-icon {
+    margin-right: 0;
+    margin-left: 0.5rem;
+}
+.card .card-table table thead tr th:first-child, .card .card-table table tfoot tr th:first-child {
+    padding-right: 2.083rem;
+    padding-left: 0;
+}
+th {
+    text-align: right;
+}
+.navbar .navbar-nav.navbar-notifications .nav-item.dropdown .nav-link#navbar-notification-search + .dropdown-menu .input-group .form-control {
+    margin-left: 0;
+}
+.input-group .form-control:not(:first-child), .input-group-addon:not(:first-child), .input-group-btn:not(:first-child)>.btn, .input-group-btn:not(:first-child)>.btn-group>.btn, .input-group-btn:not(:first-child)>.dropdown-toggle, .input-group-btn:not(:last-child)>.btn-group:not(:first-child)>.btn, .input-group-btn:not(:last-child)>.btn:not(:first-child) {
+    border-top-left-radius: 0.4167rem;
+    border-bottom-left-radius: 0.4167rem;
+	border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+ .input-group .input-group-addon + .form-control:hover, .input-group .input-group-addon + .form-control {
+    border-left: 1px solid #d2d2d2 !important;
+    border-right: 0 !important;	
+}
+.input-group.focus .input-group-addon + .form-control:hover, .input-group .input-group-addon + .form-control:focus {
+    border-left: 1px solid #07a7e3 !important;
+    border-right: 0 !important;	
+}
+
+.card .card-header .header-btn-block {
+    left: 0;
+	right: auto;
+}
+.input-group-addon.form-control, .input-group > .input-group-addon, .input-group > .input-group-btn > .input-group-addon.btn {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+	border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+table.table th, table.table td, table th, table td {
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+label {
+    font-family: "JF Flat Regular" !important;
+}
+footer {
+	text-align: left;
+}
+
+footer a{
+	margin-left: 0;
+    margin-right: 3px;
+}
+.dir-ds {
+    direction: ltr;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 992px){
+	.sidebar.bg-dark, .sidebar {
+	  right: 0; 
+	  left: auto;
+	}	
+	.sidebar + .right-column {
+		margin-right: 225px;
+		margin-left: 0;
+	}	
+	.navbar-nav {
+		float: left;
+	}
+}
+
+
+
+
+
